@@ -1,4 +1,5 @@
 *
+!*_config_template.yml
 !*.*.gpg
 !.git
 !.gitignore
